@@ -15,7 +15,7 @@
     left: 0;
     z-index: 100;
     .toast-content {
-        width: 52px;
+        width: 522px;
         background-color: rgba(141,141,141,.8);
         position: absolute;
         top: 50%;
